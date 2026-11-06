@@ -1,0 +1,6 @@
+molecules: 100 (10 x 10, hex)   atoms/molecule: 76   total atoms: 7600
+grafting distance d = 0.65 nm   area/molecule = 0.366 nm^2
+box = 6.500 x 5.629 x 10.000 nm
+molecule length (z) = 3.13 nm, footprint = 0.34 x 0.25 nm
+restraint atom: S1 (index 4 in molecule)
+head atom(s): N=['N1']  S=['S1']
