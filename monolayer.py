@@ -8,6 +8,12 @@ Works with ANY atom naming: head/tail/anchor are found from elements & geometry.
 
 Outputs: monolayer.gro, posre_S.itp, build_info.txt
 Orientation: Cys head (N) at bottom, methyl tail up (+z).
+You can also optimize this script based on the molecular
+
+If the script does not work as expected, use llm's to optimize it for the selected molecule. 
+Furthermore, additional membrane components, such as lipids, sterols, or other amphiphilic 
+molecules, can be incorporated based on literature-reported biological membrane compositions 
+to better mimic the native membrane environment. 
 """
 import argparse, re, sys
 import numpy as np
